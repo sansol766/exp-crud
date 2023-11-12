@@ -1,6 +1,6 @@
 # exp-crud
 ======================express node crud project======================================
-
+Download zip file & extract zip file & follow below steps
 1]Requirments:-
 
 MongoDB database named exp-crud
